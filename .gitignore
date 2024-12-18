@@ -1,0 +1,9 @@
+# .gitignore
+venv/                 # Ignore virtual environment folder
+__pycache__/          # Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+.ipynb_checkpoints/   # Ignore Jupyter notebook checkpoint files
